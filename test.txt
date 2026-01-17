@@ -1,14 +1,14 @@
 ------------------------------------------Castel.txt:
-The castle was quiet at night.
+The castle was quiet at midnight.
 A lantern flickered in the tower.
 A shadow moved behind the curtain.
 Was someone watching?
 
 Rier.txt:
 The river flowed gently.
- It reflected the sunlight.
- Nearby, an owl hooted.
- The valley seemed alive.
+It reflected the sun.
+Nearby, an owl hooted.
+The forest and the mountain seemed alive.
 
 Book.txt:
 The old book lay on the bench.
