@@ -6,12 +6,12 @@ Was someone watching?
 
 Rier.txt:
 The river flowed gently.
- It reflected the sunshine.
- Nearby, an owl hooted.
- The mountain seemed alive.
+It reflected the sun.
+Nearby, an owl hooted.
+The forest and the mountain seemed alive.
 
 Book.txt:
-The old book lay on the bed.
+The old book lay on the bench.
 Its pages were yellowed and torn.
 A map fell out as it was opened.
 Where could it lead?  
